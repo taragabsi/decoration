@@ -1,0 +1,20 @@
+.Left{
+  float:left;
+  width:30%;
+}
+.Center{
+  float:left;
+  width:30%;
+}
+.Right
+{
+  float:left;
+  width:30%;
+}
+
+img
+{
+  height:128px;
+  width:128px;
+  float:left;
+}
